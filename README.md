@@ -1,2 +1,4 @@
-# A-Vizualizer
+# A-Visualizer
 A* Path Finding Visualizer
+
+
